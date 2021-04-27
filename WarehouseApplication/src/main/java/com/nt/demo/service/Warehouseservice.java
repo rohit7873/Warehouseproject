@@ -16,4 +16,11 @@ public class Warehouseservice {
 
 		return null;
 	}
-}
+	public List<String> getAllProducts()
+	{
+	
+		System.out.println("get All the products");
+		return null;
+	}
+	}
+
