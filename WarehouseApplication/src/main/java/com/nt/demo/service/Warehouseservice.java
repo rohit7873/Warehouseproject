@@ -9,4 +9,11 @@ public class Warehouseservice {
 		System.out.println("fetching the warehouses");
 		return null;
 	}
+	
+	public List<String> getAllEmployees()
+	{
+		System.out.println("getting the employees");
+
+		return null;
+	}
 }
