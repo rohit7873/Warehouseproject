@@ -22,5 +22,10 @@ public class Warehouseservice {
 		System.out.println("get All the products");
 		return null;
 	}
+	public List<String> getAllBills()
+	{
+		System.out.println("get All bills");
+		return null;
 	}
 
+}
