@@ -6,4 +6,9 @@ public class Smsutlity {
 	{
 		System.out.println("sending the message to all");
 	}
+	public void sendGreetings()
+	{
+		System.out.println("sending greeeting with design");
+		System.out.println("sending the greetings here");
+	}
 }
