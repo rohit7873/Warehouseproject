@@ -8,6 +8,7 @@ public class Smsutlity {
 	}
 	public void sendGreetings()
 	{
+		System.out.println("sending greeeting with design");
 		System.out.println("sending the greetings here");
 	}
 }
