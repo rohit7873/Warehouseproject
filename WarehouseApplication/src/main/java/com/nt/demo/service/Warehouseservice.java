@@ -22,12 +22,24 @@ public class Warehouseservice {
 		System.out.println("get All the products");
 		return null;
 	}
+
 	
 	public List<String> getAllPockets()
 	{
 	System.out.println("get All Pockets");
 	return null;
-		
 	}
-}
+	public List<String> getAllBills()
+	{
+		System.out.println("get All bills");
+		return null;
+	}
+	public List<String> getAllStudents()
+	{
+		System.out.println("get all students");
+		return null;
+	}
+
+	}
+
 
